@@ -7,11 +7,7 @@
 
    <Grid Grid.Row="0" Margin="0,0,0,0">
         <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0"/>
-        <Label TextColor="Black"
-               Text="0" x:Name="lblesltado"
-               HorizontalTextAlignment="End"
-               FontSize="48"/>
+        
         </StackLayout>
    </Grid>
 

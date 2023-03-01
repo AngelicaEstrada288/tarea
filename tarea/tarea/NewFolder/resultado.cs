@@ -8,6 +8,15 @@ namespace tarea.NewFolder
 {
     public class resultado
     {
-        public int lblresultado { get; set; }
+        public int suma { get; set; }
+
+        public int restar { get; set; }
+
+        public int multiplicar { get; set; }
+
+        public int dividir { get; set; }
+
+
+
     }
 }
